@@ -1,4 +1,5 @@
 import { OrganizationSwitcher, SignOutButton, SignedIn } from "@clerk/nextjs";
+import { dark } from "@clerk/themes";
 import { LogOut } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
